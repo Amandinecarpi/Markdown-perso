@@ -1,7 +1,7 @@
 # Amandine
 *L'enseignement de l'informatique ne peut faire de personne un programmeur expert plus que l'étude des pinceaux et du pigment peut faire de quelqu'un un peintre expert.*
 
- ![Just a picture of me](photo.png "amandinepic")
+![Just a picture of me](photo.png "amandinepic")
 
 ## Motivée, débordante d'énérgie, je suis une personne dynamique malgré des difficultés liées au tdah, j'essaye de 
 Créez une table avec la structure suivante :
