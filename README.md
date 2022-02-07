@@ -1,7 +1,7 @@
 # Amandine
 *L'enseignement de l'informatique ne peut faire de personne un programmeur expert plus que l'étude des pinceaux et du pigment peut faire de quelqu'un un peintre expert.*
 
-![Just a picture of me](photo.JPG "amandinepic")
+![Just a picture of me](photo.jpg "amandinepic")
 
 ## Motivée, débordante d'énérgie, je suis une personne dynamique malgré des difficultés liées au tdah, j'essaye de 
 Créez une table avec la structure suivante :
@@ -31,4 +31,4 @@ Organisez-vous de manière à ce qu’il soit facile de savoir à qui vous devez
 
 Les liens doivent avoir la structure suivante :
 
-<< || précédente VOTRE NOM || >> suivant
+[<< previous](https://github.com/alikhalife) ||Amandine Gaullet|| [Next >>](https://github.com/Amoryne) 
